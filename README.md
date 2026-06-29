@@ -380,21 +380,22 @@ Suggested screenshots:
 
 ```
 📷 Home Screen
+![Home Screen](assets/currentTime.png)
 
 📷 Age Calculator
-week_1_smart_ai_assistant/assets/calculateAge.png
+![Age Calculator](assets/assets/calculateAge.png)
 
 📷 Percentage Calculator
-week_1_smart_ai_assistant/README.md week_1_smart_ai_assistant/assets/calculatePercentage.png
+![Percentage Calculator](assets/assets/calculatePercentage.png)
 
 📷 BMI Calculator
-week_1_smart_ai_assistant/assets/BMI.png
+![BMI Calculator](assets/BMI.png)
 
 📷 Calculator Tool
-week_1_smart_ai_assistant/assets/calculator.png
+![Calculator Tool](assets/calculator.png)
 
 📷 Day of the Week
-week_1_smart_ai_assistant/assets/DayOfWeek.png
+![Day of the Week](assets/DayOfWeek.png)
 ```
 
 ---
