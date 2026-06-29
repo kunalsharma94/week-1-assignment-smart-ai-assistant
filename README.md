@@ -382,14 +382,19 @@ Suggested screenshots:
 📷 Home Screen
 
 📷 Age Calculator
+week_1_smart_ai_assistant/assets/calculateAge.png
 
 📷 Percentage Calculator
+week_1_smart_ai_assistant/README.md week_1_smart_ai_assistant/assets/calculatePercentage.png
 
 📷 BMI Calculator
+week_1_smart_ai_assistant/assets/BMI.png
 
 📷 Calculator Tool
+week_1_smart_ai_assistant/assets/calculator.png
 
-📷 General Knowledge Question
+📷 Day of the Week
+week_1_smart_ai_assistant/assets/DayOfWeek.png
 ```
 
 ---

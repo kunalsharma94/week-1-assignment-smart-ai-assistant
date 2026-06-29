@@ -9,7 +9,7 @@ load_dotenv()
 # -----------------------------
 # Configuration
 # -----------------------------
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3-pro-preview"
 # -----------------------------
 # Gemini Client
 # -----------------------------
